@@ -1,0 +1,8 @@
+{
+  "name": "Vicio de Pipoca - Landing Page",
+  "description": "Página de vendas profissional para o eBook R$ 400 por Dia com Pipoca no Balde, focada em alta conversão e design moderno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
