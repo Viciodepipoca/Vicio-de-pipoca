@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/captura",
+      "destination": "https://captura-nine.vercel.app"
+    },
+    {
+      "source": "/captura/:path*",
+      "destination": "https://captura-nine.vercel.app/:path*"
+    }
+  ]
+}
