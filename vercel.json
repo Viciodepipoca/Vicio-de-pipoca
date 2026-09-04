@@ -1,12 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/captura",
-      "destination": "https://captura-nine.vercel.app"
-    },
-    {
-      "source": "/captura/:path*",
-      "destination": "https://captura-nine.vercel.app/:path*"
+      "destination": "https://captura-nine.vercel.app",
+      "permanent": false
     }
   ]
 }
