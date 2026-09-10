@@ -10,11 +10,11 @@
     },
     {
       "source": "/curso",
-      "destination": "https://curso-vicio-de-pipoca.vercel.app/curso"
+      "destination": "https://curso-vicio-de-pipoca.vercel.app"
     },
     {
       "source": "/curso/:path*",
-      "destination": "https://curso-vicio-de-pipoca.vercel.app/curso/:path*"
+      "destination": "https://curso-vicio-de-pipoca.vercel.app/:path*"
     }
   ]
 }
