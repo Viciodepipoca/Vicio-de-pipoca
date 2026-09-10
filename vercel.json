@@ -7,6 +7,14 @@
     {
       "source": "/captura/:path*",
       "destination": "https://captura-nine.vercel.app/:path*"
+    },
+    {
+      "source": "/curso",
+      "destination": "https://curso-vicio-de-pipoca.vercel.app/curso"
+    },
+    {
+      "source": "/curso/:path*",
+      "destination": "https://curso-vicio-de-pipoca.vercel.app/curso/:path*"
     }
   ]
 }
