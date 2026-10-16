@@ -15,6 +15,14 @@
     {
       "source": "/curso/:path*",
       "destination": "https://curso-vicio-de-pipoca.vercel.app/:path*"
+    },
+    {
+      "source": "/links",
+      "destination": "https://viciodepipocalinks.vercel.app"
+    },
+    {
+      "source": "/links/:path*",
+      "destination": "https://viciodepipocalinks.vercel.app/:path*"
     }
   ]
 }
