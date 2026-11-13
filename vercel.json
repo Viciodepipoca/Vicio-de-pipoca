@@ -23,6 +23,14 @@
     {
       "source": "/links/:path*",
       "destination": "https://viciodepipocalinks.vercel.app/:path*"
+    },
+    {
+      "source": "/cursoblack",
+      "destination": "https://cursoblackfriday2.vercel.app"
+    },
+    {
+      "source": "/cursoblack/:path*",
+      "destination": "https://cursoblackfriday2.vercel.app/:path*"
     }
   ]
 }
